@@ -6,16 +6,7 @@
     <description>Recent content on Standing on the Shoulders of Gigants</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>test post</title>
-      <link>/post/2021-01-28-test-post/</link>
-      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2021-01-28-test-post/</guid>
-      <description>Set Knitr Options library(rmarkdown) library(knitr) opts_chunk$set( echo=TRUE, dpi=300, fig.width=5 ) Plot plot(cars) </description>
-    </item>
-    
+    <lastBuildDate>Thu, 22 Jun 2017 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fancy App 1</title>
       <link>/itemized/item1/</link>
@@ -50,6 +41,30 @@
       
       <guid>/itemized/item4/</guid>
       <description>App 4 </description>
+    </item>
+    
+    <item>
+      <title>R Notebook</title>
+      <link>/blog/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/test/</guid>
+      <description>This is an R Markdown Notebook. When you execute code within the notebook, the results appear beneath the code.
+Try executing this chunk by clicking the Run button within the chunk or by placing your cursor inside it and pressing Ctrl+Shift+Enter.
+plot(cars)Add a new chunk by clicking the Insert Chunk button on the toolbar or by pressing Ctrl+Alt+I.
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the Preview button or press Ctrl+Shift+K to preview the HTML file).</description>
+    </item>
+    
+    <item>
+      <title>R Notebook</title>
+      <link>/blog/test2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/test2/</guid>
+      <description>This is an R Markdown Notebook. When you execute code within the notebook, the results appear beneath the code.
+Try executing this chunk by clicking the Run button within the chunk or by placing your cursor inside it and pressing Ctrl+Shift+Enter.
+plot(cars)Add a new chunk by clicking the Insert Chunk button on the toolbar or by pressing Ctrl+Alt+I.
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the Preview button or press Ctrl+Shift+K to preview the HTML file).</description>
     </item>
     
   </channel>
