@@ -1,11 +1,11 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Hugo Future Imperfect"
+title = "Standing on the Shoulders of Gigants"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
 disqusShortname = "shortname"
-googleAnalytics = ""
+googleAnalytics = "UA-120211561-1"
 pluralizeListTitles = false
 # Set the followings to true as part of your site SEO
 enableRobotsTXT = true
@@ -13,9 +13,9 @@ canonifyURLs = true
 
 [params]
   # Sets the meta tag description
-  description          = "HTML5 UP theme, Future Imperfect with some extra goodies, ported by Julio Pescador. Powered by Hugo"
+  description          = "This site is intended to compile my the the fun side of my journey trought Data Analytics & Data Science"
   # Sets the navbarTitle that appears in the top left of the navigation bar
-  navbarTitle          = "Future Imperfect"
+  navbarTitle          = "STANDING ON THE SHOULDERS OF GIGANTS"
   # Sets where "View More Posts" links
   viewMorePostLink     = "/blog/"
 
@@ -87,11 +87,11 @@ canonifyURLs = true
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
 [params.intro]
-  header    = "Hugo Future Imperfect"
+  header    = "Ed Jaramillo Personal Page"
 
-  paragraph = "Another fine responsive site template by <a href=\"http://html5up.net\">HTML5 UP</a>. Ported by Julio Pescador with some extra goodies <i class='fa fa-hand-peace-o'></i>"
+  paragraph = "Here I will try to share my journey trought Data Analytics and Data Science <i class='fa fa-hand-peace-o'></i>"
 
-  about     = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tellus lacus, auctor vehicula molestie quis, tempor quis velit. Quisque in quam ac leo efficitur vulputate. Phasellus ullamcorper aliquam sodales. Maecenas sit amet condimentum ipsum. Proin sit amet ligula elit. Mauris."
+  about     = "Eduardo Jaramillo is a Data Analyst with experience in sectors such as Commercial Real Estate, Enterpreneurship, Gas & Oil among others. I hold a bachelors degree in Economics, and I win the National Association of Economics Students’ National Presentation Competition. I was granted the Academic Merit Award for his generation’s Masters Degree in Economics."
 
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.
